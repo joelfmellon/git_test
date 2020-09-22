@@ -1,1 +1,1 @@
-This is Joel's first gir project!
+This is Joel's first git project!
